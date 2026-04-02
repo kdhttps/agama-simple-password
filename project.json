@@ -1,0 +1,20 @@
+{
+    "projectName": "agama-simple-password",
+    "description": "Simple agama password project",
+    "type": "community",
+    "author": "kdhttps",
+    "version": "1.0.0",
+    "authorWebsite": "https://github.com/kdhttps/agama-simple-password",
+    "githubUri": "https://github.com/kdhttps/agama-simple-password",
+    "license": "apache-2.0",
+    "lastUpdated": "1775121067354",
+    "tags": [
+        "openid-connect",
+        "authorization"
+    ],
+    "noDirectLaunch": [],
+    "configs": {
+        "co.acme.password": {}
+    },
+    "name": "agama-simple-password"
+}
